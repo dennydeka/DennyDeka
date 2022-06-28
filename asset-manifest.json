@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "//dennydeka.github.io/dennydekawedding/static/css/main.28747060.css",
-    "main.js": "//dennydeka.github.io/dennydekawedding/static/js/main.368e4c29.js",
-    "static/js/787.d51789d0.chunk.js": "//dennydeka.github.io/dennydekawedding/static/js/787.d51789d0.chunk.js",
-    "static/media/flow.jpg": "//dennydeka.github.io/dennydekawedding/static/media/flow.acd9400fb0df895f4b27.jpg",
-    "static/media/flow_abs.jpg": "//dennydeka.github.io/dennydekawedding/static/media/flow_abs.56103e85bb9b350e18e7.jpg",
-    "static/media/flowers_konten-bot.png": "//dennydeka.github.io/dennydekawedding/static/media/flowers_konten-bot.95589e38cdddce0868fe.png",
-    "static/media/header.jpeg": "//dennydeka.github.io/dennydekawedding/static/media/header.6a8ef77790784e111261.jpeg",
-    "static/media/bismillah.png": "//dennydeka.github.io/dennydekawedding/static/media/bismillah.41ea5cc2b2c01c9ab85f.png",
-    "static/media/instagram.svg": "//dennydeka.github.io/dennydekawedding/static/media/instagram.4d969dd141d389ed7a2fe7584b56d681.svg",
-    "index.html": "//dennydeka.github.io/dennydekawedding/index.html",
-    "main.28747060.css.map": "//dennydeka.github.io/dennydekawedding/static/css/main.28747060.css.map",
-    "main.368e4c29.js.map": "//dennydeka.github.io/dennydekawedding/static/js/main.368e4c29.js.map",
-    "787.d51789d0.chunk.js.map": "//dennydeka.github.io/dennydekawedding/static/js/787.d51789d0.chunk.js.map"
+    "main.css": "/dennydekawedding/static/css/main.d1e0ef0d.css",
+    "main.js": "/dennydekawedding/static/js/main.a0c31f88.js",
+    "static/js/787.d51789d0.chunk.js": "/dennydekawedding/static/js/787.d51789d0.chunk.js",
+    "static/media/flow.jpg": "/dennydekawedding/static/media/flow.acd9400fb0df895f4b27.jpg",
+    "static/media/flow_abs.jpg": "/dennydekawedding/static/media/flow_abs.56103e85bb9b350e18e7.jpg",
+    "static/media/flowers_konten-bot.png": "/dennydekawedding/static/media/flowers_konten-bot.95589e38cdddce0868fe.png",
+    "static/media/header.jpeg": "/dennydekawedding/static/media/header.6a8ef77790784e111261.jpeg",
+    "static/media/bismillah.png": "/dennydekawedding/static/media/bismillah.41ea5cc2b2c01c9ab85f.png",
+    "static/media/instagram.svg": "/dennydekawedding/static/media/instagram.4d969dd141d389ed7a2fe7584b56d681.svg",
+    "index.html": "/dennydekawedding/index.html",
+    "main.d1e0ef0d.css.map": "/dennydekawedding/static/css/main.d1e0ef0d.css.map",
+    "main.a0c31f88.js.map": "/dennydekawedding/static/js/main.a0c31f88.js.map",
+    "787.d51789d0.chunk.js.map": "/dennydekawedding/static/js/787.d51789d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28747060.css",
-    "static/js/main.368e4c29.js"
+    "static/css/main.d1e0ef0d.css",
+    "static/js/main.a0c31f88.js"
   ]
 }
