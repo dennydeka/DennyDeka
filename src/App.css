@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Sacramento&family=Satisfy&display=swap');
+
+h2, h3{
+    font-family: 'Satisfy', cursive;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.p__satisfy{
+    font-family: 'Satisfy', cursive !important;
+}
+
+.p__poppins{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.p__sacramento{
+    font-family: 'Sacramento', cursive !important;
+}
+
+.card{
+    background-color: transparent !important;
+    border: 2px solid #000 !important;
+    border-radius: 10px !important;
+}
+
+.fp-watermark{
+    display: none !important;
+}
+
+.fp-table{
+    flex-direction: row !important;
+}
+

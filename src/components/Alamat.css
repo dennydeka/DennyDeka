@@ -1,0 +1,25 @@
+.lokasi{
+    background: url('../assets/flow.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.lokasi__title{
+    font-size: 32px;
+}
+
+@media screen and (min-width:768px){
+    .lokasi__title{
+        font-size: 48px;
+    }
+    
+    .lokasi__map{
+        max-width: 60%;
+        margin: auto;
+    }
+    
+    .btn__map{
+        padding: 1rem 1.5rem;
+    }
+}
