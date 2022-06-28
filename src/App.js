@@ -8,7 +8,6 @@ import Waktu from './components/Waktu';
 import Penutup from './components/Penutup';
 
 import ReactFullpage from '@fullpage/react-fullpage'
-// document.addEventListener('touchstart', 'onTouchStart', {passive: true});
 function App() {
   return (
     

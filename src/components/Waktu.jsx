@@ -27,7 +27,7 @@ const Waktu = () => {
                                 <Card.Text>Rumah mempelai perempuan</Card.Text>
                             </Col>
                         </Row>
-                        <Card.Text className='fst-italic'>Dsn. Gebyaran RT.03/RW.06 Ds Puhjarak, Plemahan, Kediri</Card.Text>
+                        <Card.Text className='fst-italic'>Dsn. Gebyaran RT.03/RW.06 Ds. Puhjarak, Plemahan, Kediri</Card.Text>
                         <a rel='noreferrer' target='_blank' className='btn btn-dark btn__waktu' href="https://www.google.com/calendar/render?action=TEMPLATE&text=Denny+and+Deka+Wedding+day&details=Denny+and+Deka+Wedding+on+Monday%2C+18+July+2022&location=Gebyaran%2C+Puhjarak%2C+Kec.+Plemahan%2C+Kabupaten+Kediri%2C+Jawa+Timur+64155&dates=20220719T000000Z%2F20220719T010000Z">Add to Google calendar</a>
                     </Card.Body>
                 </Card>
@@ -51,7 +51,7 @@ const Waktu = () => {
                                 <Card.Text>Rumah mempelai Laki-laki</Card.Text>
                             </Col>
                         </Row>
-                        <Card.Text className='fst-italic'>Dsn. Mojoroto RT.03/RW.06 Ds Puhjarak, Plemahan, Kediri</Card.Text>
+                        <Card.Text className='fst-italic'>Dsn. Mojoroto RT.01/RW.08 Ds. Wonokerto, Plemahan, Kediri</Card.Text>
                         <a rel='noreferrer' target='_blank' className='btn btn-dark btn__waktu' href="https://www.google.com/calendar/render?action=TEMPLATE&text=Denny+and+Deka+Reception+Day&details=Denny+and+Deka+Reception+Day+on+Monday%2C+25+July+2022&location=Mojoroto%2C+Wonokerto%2C+Kec.+Plemahan%2C+Kabupaten+Kediri%2C+Jawa+Timur&dates=20220725T020000Z%2F20220725T050000Z">Add to Google calendar</a>
                     </Card.Body>
                 </Card>

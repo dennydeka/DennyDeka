@@ -25,6 +25,10 @@
     z-index: 1;
 }
 
+.ayat{
+    font-size: 32px;
+}
+
 .penutup__sosmed{
     width: 100%;
     margin: auto;
@@ -45,11 +49,15 @@
 @media screen and (min-width:768px){
     .penutup__detail{
         font-size: 24px;
-        width: 60%;
+        width: 50vw;
         margin: auto;
     }
 
     .penutup__sosmed-left{
         margin-right: 3rem;
+    }
+
+    .ayat{
+        font-size: 48px;
     }
 }

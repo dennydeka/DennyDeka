@@ -2,7 +2,7 @@ import React from 'react'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 
-import instagram from '../assets/instagram.svg'
+import whatsapp from '../assets/whatsapp.svg'
 import Fade from 'react-reveal/Fade'
 import './Penutup.css'
 
@@ -13,8 +13,10 @@ const Penutup = () => {
             <h2 className='penutup__title d-none'>Penutup</h2>
             <Fade>
               <div className="penutup__detail mb-5">
-                  <p>Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/Saudari berkenan hadir memberikan doa restu.</p>
-                  <p>Jika bisa hadir kami tunggu konfirmasinya, Informasi: Di meja penerima tamu akan kami sediakan hand sanitizer dan pemeriksaan suhu tubuh.</p>
+                  <p className='ayat'>وَمِنْ كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُوْنَ</p>
+                  <p><q>Segala sesuatu Kami ciptakan berpasang-pasangan agar kamu mengingat (kebesaran Allah).</q></p>
+                  <p className='fw-bold'>QS. 51:49</p>
+                  <p>Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/Saudari berkenan hadir dan memberikan doa restu.</p>
                   <p>Jika tidak memungkinkan untuk hadir di pernikahan kami, tidak mengapa, semoga bisa berjumpa di lain kesempatan.</p>
                   <p>Stay safe.</p>
               </div>
@@ -22,12 +24,12 @@ const Penutup = () => {
             <div className='penutup__sosmed d-flex'>
               <Fade left>
                 <div className='penutup__sosmed-left'>
-                <a rel='noreferrer' target='_blank' href="https://instagram.com/kres_no?igshid=YmMyMTA2M2Y="><img className='img-fluid penutup__img' src={instagram} alt="instagram icon" /> Denny</a>
+                <a rel='noreferrer' target='_blank' href="https://api.whatsapp.com/send?phone=628563664334"><img className='img-fluid penutup__img' src={whatsapp} alt="whatsapp icon" /> Denny</a>
                 </div>
               </Fade>
               <Fade right>
                 <div className='penutup__sosmed-right'>
-                <a rel='noreferrer' target='_blank' href="https://instagram.com/dechayoso?igshid=YmMyMTA2M2Y="> <img className='img-fluid penutup__img' src={instagram} alt="instagram icon" /> Deka</a>
+                <a rel='noreferrer' target='_blank' href="https://api.whatsapp.com/send?phone=628974961475"> <img className='img-fluid penutup__img' src={whatsapp} alt="whatsapp icon" /> Deka</a>
                 </div>
               </Fade>
             </div>

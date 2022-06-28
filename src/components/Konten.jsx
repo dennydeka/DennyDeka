@@ -24,7 +24,7 @@ const Konten = () => {
                     <p className='konten__name'>Deka Nurhidayati</p>
                     <p className='fst-italic'>Putri dari Bapak Imam Mujianto &amp; Ibu Miasih</p>
                     <p>&amp;</p>
-                    <p className='konten__name'>Denny Kresna W</p>
+                    <p className='konten__name'>Denny Kresna W.</p>
                     <p className='fst-italic'>Putra dari Bapak Purwadi &amp; Ibu Menik</p>
                 </div>
                 <div className='konten__img-bot'>
