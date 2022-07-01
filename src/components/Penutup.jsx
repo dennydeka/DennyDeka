@@ -24,12 +24,12 @@ const Penutup = () => {
             <div className='penutup__sosmed d-flex'>
               <Fade left>
                 <div className='penutup__sosmed-left'>
-                <a rel='noreferrer' target='_blank' href="https://api.whatsapp.com/send?phone=628563664334"><img className='img-fluid penutup__img' src={whatsapp} alt="whatsapp icon" /> Denny</a>
+                <a rel='noreferrer' target='_blank' href="https://api.whatsapp.com/send?phone=628563664334&text=Selamat%20bro%2C%20Barakallahu%20lakuma%20wa%20baraka%20%E2%80%98alaikuma%20wa%20jama%E2%80%99a%20bainakuma%20fii%20khair%20%F0%9F%99%8F"><img className='img-fluid penutup__img' src={whatsapp} alt="whatsapp icon" /> Denny</a>
                 </div>
               </Fade>
               <Fade right>
                 <div className='penutup__sosmed-right'>
-                <a rel='noreferrer' target='_blank' href="https://api.whatsapp.com/send?phone=628974961475"> <img className='img-fluid penutup__img' src={whatsapp} alt="whatsapp icon" /> Deka</a>
+                <a rel='noreferrer' target='_blank' href="https://api.whatsapp.com/send?phone=628974961475&text=Selamat%20sis%2C%20Barakallahu%20lakuma%20wa%20baraka%20%E2%80%98alaikuma%20wa%20jama%E2%80%99a%20bainakuma%20fii%20khair%20%F0%9F%99%8F"><img className='img-fluid penutup__img' src={whatsapp} alt="whatsapp icon" /> Deka</a>
                 </div>
               </Fade>
             </div>
