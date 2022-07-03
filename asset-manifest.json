@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dennydekawedding/static/css/main.1f3b9467.css",
-    "main.js": "/dennydekawedding/static/js/main.8af53221.js",
+    "main.js": "/dennydekawedding/static/js/main.6ea2cc58.js",
     "static/js/787.d51789d0.chunk.js": "/dennydekawedding/static/js/787.d51789d0.chunk.js",
     "static/media/flow.jpg": "/dennydekawedding/static/media/flow.acd9400fb0df895f4b27.jpg",
     "static/media/flow_abs.jpg": "/dennydekawedding/static/media/flow_abs.56103e85bb9b350e18e7.jpg",
@@ -11,11 +11,11 @@
     "static/media/whatsapp.svg": "/dennydekawedding/static/media/whatsapp.bd02df8e7a5ef128e55bcd2a40a8b4a5.svg",
     "index.html": "/dennydekawedding/index.html",
     "main.1f3b9467.css.map": "/dennydekawedding/static/css/main.1f3b9467.css.map",
-    "main.8af53221.js.map": "/dennydekawedding/static/js/main.8af53221.js.map",
+    "main.6ea2cc58.js.map": "/dennydekawedding/static/js/main.6ea2cc58.js.map",
     "787.d51789d0.chunk.js.map": "/dennydekawedding/static/js/787.d51789d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f3b9467.css",
-    "static/js/main.8af53221.js"
+    "static/js/main.6ea2cc58.js"
   ]
 }
